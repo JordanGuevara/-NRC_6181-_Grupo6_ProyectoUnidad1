@@ -1,0 +1,2 @@
+|   NOMBRE   |   APELLIDO   |   EDAD   |      CEDULA     |     TELEFONO     |
+    jg       jg       20            234              234
